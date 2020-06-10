@@ -142,3 +142,5 @@ Question #13: What value does the following expression evaluate to?
 */
 //Question #13 solution
 '12' < '9' //Evaluates to true. '1' is less than '9'
+
+//test 2
